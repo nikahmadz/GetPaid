@@ -10,7 +10,7 @@ Do you want to collect payments online?
 
 ***
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7bd8a16-e9fb-47e8-85d1-48c737a18641/deploy-status)][1]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/051968df-f51a-4e02-911d-b7ad5811fb0f/deploy-status)][1]
 
 ***
 
