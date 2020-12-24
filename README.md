@@ -14,7 +14,7 @@ Do you want to collect payments online?
 
 ***
 
-> **[GetPaid][1]** is a small project aim to produce a quick, easy way to request payments online.  
+> **[GetPaid][2]** is a small project aim to produce a quick, easy way to request payments online.  
 > Contribute to this project on [Github][2].  
 
 [1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
