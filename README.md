@@ -18,5 +18,5 @@ Do you want to collect payments online?
 > Contribute to this project on [Github][2].  
 
 [1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
-[2]:https://github.com/nikahmadz/getpaid/ "Contribute to this project"
+[2]:https://github.com/nikahmadz/GetPaid/ "Contribute to this project"
 [3]:https://nikahmadz.github.io/GetPaid/ "Read documents"
