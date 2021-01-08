@@ -6,7 +6,6 @@
 
 Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/051968df-f51a-4e02-911d-b7ad5811fb0f/deploy-status)][4]
 
-***
 
 [1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
 [2]:https://github.com/nikahmadz/GetPaid/ "Contribute to this project"
