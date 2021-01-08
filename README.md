@@ -6,7 +6,7 @@
 Do you want to collect payments online?  
 **GetPaid** helps you build apps to receive online payments.
 
-> **[Go to website][1]** | **[User documentation][3]**
+> **[Open App][1]** | **[User documentation][3]**
 
 ***
 
