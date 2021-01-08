@@ -1,4 +1,4 @@
-# Help us with User Documentation
+# Help us write [User Documentation](https://nikahmadz.github.io/GetPaid/)
 
 ## Using GitHub Pages
 
