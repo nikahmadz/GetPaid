@@ -1,6 +1,6 @@
 ## User documentation
 
-> **[Go to Website][1]** + **[Github][2]** + **[Wiki][3]** + **[Issues][4]** + **[Help][5]**
+> **[Go to Website][1]** | **[Github][2]** + **[Wiki][3]** + **[Issues][4]** + **[Help][5]**
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/051968df-f51a-4e02-911d-b7ad5811fb0f/deploy-status)][1]
 
