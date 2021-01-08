@@ -1,6 +1,6 @@
 # GetPaid User Documentation
 
-## GitHub Pages
+## Using GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nikahmadz/GetPaid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,14 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-***
-
-**[Go to website][1]** | **[Github][2]** | **[Docs][3]**
-
-***
-
-[1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
-[2]:https://github.com/nikahmadz/GetPaid/ "Contribute to this project"
-[3]:https://nikahmadz.github.io/GetPaid/ "User documentation"
 
