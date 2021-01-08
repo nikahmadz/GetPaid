@@ -4,7 +4,7 @@
 
 ***
 
-<small>[[Help us improve this document]][6]</small>
+<small>[[Help us write this document]][6]</small>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/051968df-f51a-4e02-911d-b7ad5811fb0f/deploy-status)][1]
 
