@@ -1,4 +1,4 @@
-# GetPaid User Documentation
+# Help us with User Documentation
 
 ## Using GitHub Pages
 
