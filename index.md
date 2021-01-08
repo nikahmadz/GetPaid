@@ -1,4 +1,4 @@
-## User documentation
+## Introduction
 
 > **[Open App][1]** | **[Github][2]** &middot; **[Wiki][3]** &middot; **[Issues][4]** &middot; **[Help][5]**
 
