@@ -1,10 +1,10 @@
 > **[GetPaid][2]** is a small project aim to produce a quick, easy way to request payments online.  
 
-**[Go to website][1]** | **[Github][2]** | **[Wiki][3]** | **[Issue][4]** | **[Discussion][5]**
+**[Website][1]** | **[Github][2]** | **[Wiki][3]** | **[Issue][4]** | **[Discussion][5]**
 
 ***
 
-Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/051968df-f51a-4e02-911d-b7ad5811fb0f/deploy-status)][4]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/051968df-f51a-4e02-911d-b7ad5811fb0f/deploy-status)][4]
 
 
 [1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
