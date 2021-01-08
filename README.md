@@ -6,7 +6,7 @@
 Do you want to collect payments online?  
 **GetPaid** helps you build apps to receive online payments.
 
-> **[Go to website][1]** | **[Read documents][3]**
+> **[Go to website][1]** | **[User documentation][3]**
 
 ***
 
@@ -19,4 +19,4 @@ Do you want to collect payments online?
 
 [1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
 [2]:https://github.com/nikahmadz/GetPaid/ "Contribute to this project"
-[3]:https://nikahmadz.github.io/GetPaid/ "Read documents"
+[3]:https://nikahmadz.github.io/GetPaid/ "User documentation"
