@@ -1,4 +1,8 @@
-#### [GetPaid][1] development files
+## User documentation
+
+***
+
+> **[GetPaid][2]** is a small project aim to produce a quick, easy way to request payments online.  
 
 ***
 
