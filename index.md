@@ -10,13 +10,10 @@
 
 ***
 
-**[Go to website][1]** | **[Github][2]** | **[Docs][3]** | **[Wiki][4]** | **[Issue][5]** | **[Discussion][6]**
-
-***
+**[Go to website][1]** | **[Github][2]** | **[Wiki][3]** | **[Issue][4]** | **[Discussion][5]**
 
 [1]:https://getpaid.netlify.app/ "Easy Solution for Online Payment"
 [2]:https://github.com/nikahmadz/GetPaid/ "Contribute to this project"
-[3]:https://nikahmadz.github.io/GetPaid/ "Read user docs"
-[4]:https://github.com/nikahmadz/GetPaid/wiki "Go to our wiki page"
-[5]:https://github.com/nikahmadz/GetPaid/issues "Log an Issue"
-[6]:https://github.com/nikahmadz/GetPaid/discussions "Start discussion"
+[3]:https://github.com/nikahmadz/GetPaid/wiki "Visit our wiki page"
+[4]:https://github.com/nikahmadz/GetPaid/issues "Log an Issue"
+[5]:https://github.com/nikahmadz/GetPaid/discussions "Start discussion"
